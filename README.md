@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudiante de tercer año de Ingeniería Civil Informática en la Universidad Técnica Federico Santa María, con ramos al día.<br>Interesado aumentar mis conocimientos en la gestión y desarrollo de proyectos de software.<br>Entusiasta de Linux.
+Estudiante de tercer año de Ingeniería Civil Informática en la Universidad Técnica Federico Santa María, con ramos al día.<br>Interesado aumentar mis conocimientos en la gestión y desarrollo de proyectos de software.<br>Entusiasta de Linux y Thinkpads.
 
 
 ## 🌐 Socials:
